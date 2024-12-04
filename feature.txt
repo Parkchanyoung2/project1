@@ -1,1 +1,2 @@
 Cool new feature
+Another cool feature
